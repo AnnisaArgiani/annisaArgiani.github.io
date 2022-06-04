@@ -1,0 +1,85 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: #C2DED1 ;
+} 
+
+*{
+    box-sizing: border-box;
+}
+
+.main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 15vw;
+    background-clip: text;
+    color: #354259 ;
+}
+
+.controling{
+    margin-top: 16px;
+}
+
+button{
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    color: grey;
+    padding: 4px 8px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+.set-Alarm{
+    background-color: #8CC0DE;  
+}
+
+.clear-Alarm{
+    background-color:#F73D93 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
